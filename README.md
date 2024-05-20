@@ -1,5 +1,5 @@
-# Happy-Customers-Apziva-Proj-1
-Apziva Program Project 1 - goal of this project is to create a model that predicts if a customer is happy or not given data from customer responses to a survey
+# Happy-Customers
+Apziva Project 1 - goal of this project is to create a model that predicts if a customer is happy or not given data from customer responses to a survey
 
 ### Background:
 The company this project is based on is a company in the logistics and delivery domain. They specialize in making on-demand delivery to customers.
