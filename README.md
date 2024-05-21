@@ -8,13 +8,13 @@ Their goal is to make the customers happy. The only way to do that is to measure
 The company recently surveyed a cohort of customers, and we have been given a subset of this survey data to use at the training data for this project.
 
 ### Data Codebook:
-Y = target attribute, integer values of 0 (unhappy customer) or 1 (happy customer)
-X1 = "My order was delivered on time"; one integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".
-X2 = "Contents of my order were as I expected"; integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".
-X3 = "I ordered everything I wanted to order"; integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".
-X4 = "I paid a good price for my order"; integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".
-X5 = "I am satisfied with my courier"; integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".
-X6 = "The app makes ordering easy for me"; integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".
+Y = target attribute, integer values of 0 (unhappy customer) or 1 (happy customer)  
+X1 = "My order was delivered on time"; one integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".  
+X2 = "Contents of my order were as I expected"; integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".  
+X3 = "I ordered everything I wanted to order"; integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".  
+X4 = "I paid a good price for my order"; integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".  
+X5 = "I am satisfied with my courier"; integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".  
+X6 = "The app makes ordering easy for me"; integer value from 1 to 5 where 1 is "Strongly Disagree" and 5 is "Strongly Agree".  
 
 ### Goal: 
 - Using python, create a model that predicts if a customer is happy or not based on the answers they give to questions asked.
