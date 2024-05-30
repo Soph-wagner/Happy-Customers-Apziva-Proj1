@@ -18,7 +18,7 @@ X6 = "The app makes ordering easy for me"; integer value from 1 to 5 where 1 is 
 
 ### Goal: 
 - Using python, create a model that predicts if a customer is happy or not based on the answers they give to questions asked.
-- This model must reach at least a 73% accuracy score. Write down any insights gained.
+- This model must reach at least a 73% accuracy score, OR convince why your solution is superior. Write down any insights gained, we are interested in every solution and insight you can provide.
 
 ### Bonus Goals:
 - Using a feature selection approach show what is the minimal set of attributes/features that would preserve the most information about the problem while increasing predictability of the data we have.
