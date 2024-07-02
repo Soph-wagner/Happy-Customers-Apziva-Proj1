@@ -1,4 +1,9 @@
 # GEVvlgrMqu9YfPvB
+
+# Warning!
+The Data and Model Code files are stored in different directory levels and the code does not reflect this! Please make sure to have the data file at the same location as any of the files that will be run to prevent errors or edit the code to pull in the data from the proper place on your device storing the data file.
+
+
 Apziva Project 1 - Goal of this project is to create a model that predicts if a customer is happy or not given data from customer responses to a survey
 
 ### Background:
